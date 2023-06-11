@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suzit</h1>
+<h1 align="center">Hi 👋, I'm Suzit Datta</h1>
 <h3 align="center">Passionate about coding, technology and problem solving.</h3>
 
 - 📫 How to reach me **suzitdatta10@gmail.com**
