@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Suzit-Datta
+- 👋 Hi, I’m Suzit Datta
 - 📫 suzitdatta10@gmail.com
