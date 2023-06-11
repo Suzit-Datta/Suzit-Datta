@@ -14,4 +14,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suzit-datta&show_icons=true&locale=en" alt="suzit-datta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzit-datta&" alt="suzit-datta" /></p>
